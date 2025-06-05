@@ -1,0 +1,31 @@
+2025-06-05 14:43:26,506 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-05 14:48:14,916 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-05 15:00:32,851 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-05 15:00:33,030 - discord.client - INFO - logging in using static token
+2025-06-05 15:00:33,584 - __main__ - INFO - Bot setup completed
+2025-06-05 15:00:33,888 - __main__ - ERROR - Bot encountered an error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-06-05 15:01:28,557 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-05 15:01:28,596 - discord.client - INFO - logging in using static token
+2025-06-05 15:01:28,596 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-05 15:01:29,067 - __main__ - INFO - Bot setup completed
+2025-06-05 15:01:29,389 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3a54504a8b899a37be15a508efd97e24).
+2025-06-05 15:01:31,393 - __main__ - INFO - Prof Chen#1280 has connected to Discord!
+2025-06-05 15:01:31,393 - __main__ - INFO - Bot is monitoring channel: 1380194556951134391
+2025-06-05 15:03:49,754 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-05 15:03:49,782 - discord.client - INFO - logging in using static token
+2025-06-05 15:03:49,782 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-05 15:03:50,187 - __main__ - INFO - Bot setup completed
+2025-06-05 15:03:50,491 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bd2d5c118de8362cc7dc207ff94f7b70).
+2025-06-05 15:03:52,494 - __main__ - INFO - Prof Chen#1280 has connected to Discord!
+2025-06-05 15:03:52,495 - __main__ - INFO - Bot is monitoring channel: 1380194556951134391
+2025-06-05 15:07:58,956 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-06-05 15:07:59,051 - discord.client - INFO - logging in using static token
+2025-06-05 15:07:59,052 - discord.ext.commands.bot - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2025-06-05 15:07:59,395 - __main__ - INFO - Bot setup completed
+2025-06-05 15:07:59,782 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 45f0e1069c6bad7d86e12f12f539c7a6).
+2025-06-05 15:08:01,785 - __main__ - INFO - Prof Chen#1280 has connected to Discord!
+2025-06-05 15:08:01,785 - __main__ - INFO - Bot is monitoring channel: 1380194556951134391
+2025-06-05 15:09:28,685 - __main__ - INFO - Received message in channel 1380193054241067062 from Prof Chen#1280
+2025-06-05 15:09:28,686 - __main__ - INFO - Ignoring message from bot itself
+2025-06-05 15:09:47,352 - __main__ - INFO - Received message in channel 1380194556951134391 from lcsnzh
+2025-06-05 15:09:47,352 - __main__ - INFO - Message is in target channel, checking for attachments
